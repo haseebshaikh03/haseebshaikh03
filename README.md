@@ -17,10 +17,10 @@ Senior AI Engineer at Turing, working on LLM evaluation and benchmarking for fro
 
 | Project | What it is | Built at | Link |
 |---|---|---|---|
-| AVDA.ai | Multi-tenant AI voice agent SaaS for inbound and outbound calls, solo backend build | Independent, US client | |
-| ExploitOps | Multi-cloud attack simulator across AWS, Azure and GCP | Final year project | |
+| AVDA.ai | Multi-tenant AI voice agent SaaS for inbound and outbound calls, solo backend build | Independent, US client | NDA |
+| ExploitOps | Multi-cloud attack simulator across AWS, Azure and GCP | Final year project | Private |
 | DrayMatch | US container logistics platform, backend, scrapers and analytics | FuzionDev LLC | [draymatch.io](https://draymatch.io) |
-| Condo Whisper, FinanceIQ, ABCard, Soul Story, TimeCloud | Backends for US client products | FuzionDev LLC | |
+| Condo Whisper, FinanceIQ, ABCard, Soul Story, TimeCloud | Backends for US client products | FuzionDev LLC | NDA |
 | Kaufes | Swiss second hand marketplace and auctions, web and mobile | Cloud Mesh Solutions | [kaufes.ch](https://kaufes.ch) |
 | Park4Fly | Airport parking management with a driver app | Cloud Mesh Solutions | [Play Store](https://play.google.com/store/apps/details?id=net.park4fly.easyparksoftware) |
 | Büro 365 | Task, appointment and project management for small businesses | Cloud Mesh Solutions | [Play Store](https://play.google.com/store/apps/details?id=com.buero365.buero365) |
@@ -28,8 +28,8 @@ Senior AI Engineer at Turing, working on LLM evaluation and benchmarking for fro
 | Concord Pharma | Sales team app for Concord Healthcare Group, backend and mobile | Ripple Intra Technologies | [Play Store](https://play.google.com/store/apps/details?id=com.concordmpo) |
 | Toticell | Regenerative healthcare center app | Ripple Intra Technologies | [Play Store](https://play.google.com/store/apps/details?id=com.toticell) |
 | EW Villa Medica | Cell therapy and medical tourism app | Ripple Intra Technologies | [Play Store](https://play.google.com/store/apps/details?id=com.ewvm) |
-| DMFR | Backend and DevOps | Ripple Intra Technologies | |
-| Brand Emirate | TypeScript backend with MongoDB and Redis on a shared microservices base | Ripple Intra Technologies | |
+| DMFR | Backend and DevOps | Ripple Intra Technologies | NDA |
+| Brand Emirate | TypeScript backend with MongoDB and Redis on a shared microservices base | Ripple Intra Technologies | NDA |
 
 Most of this lives in private client and company repositories.
 
