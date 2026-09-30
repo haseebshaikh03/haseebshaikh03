@@ -13,7 +13,7 @@ Senior AI Engineer at Turing, working on LLM evaluation and benchmarking for fro
 - Backend and platform engineering, from APIs and microservices to CI/CD and cloud deployment.
 - Offensive security, mostly web pentesting, reverse engineering and CTF infrastructure.
 
-### Projects
+### Software Projects
 
 | Project | What it is | Built at | Link |
 |---|---|---|---|
