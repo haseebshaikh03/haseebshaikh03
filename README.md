@@ -1,70 +1,40 @@
-<div align="center">
+## Abdul Haseeb Shaikh
 
-# Abdul Haseeb Shaikh
+Senior AI Engineer at Turing, working on LLM evaluation and benchmarking for frontier labs. Before that I ran Cloud Mesh Solutions, a software company of around 30 people, as CEO and Head of Engineering. Six years of shipping backend systems in Python and TypeScript, based in Islamabad and working remotely with US and EU teams.
 
-<a href="https://haseebshaikh03.github.io">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1400&color=2EA97D&center=true&vCenter=true&width=620&lines=Senior+AI+Engineer+at+Turing;LLM+evaluation+and+benchmarking;Backend+and+platform+engineer;CTF+player%2C+Team+PsychoTherapist" alt="Senior AI Engineer at Turing. LLM evaluation and benchmarking. Backend and platform engineer. CTF player." />
-</a>
+[Portfolio](https://haseebshaikh03.github.io) · [LinkedIn](https://www.linkedin.com/in/haseebshaikh03) · [Email](mailto:shaikh.haseeb.work@gmail.com)
 
-<p>
-  <a href="https://haseebshaikh03.github.io"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=gnubash&logoColor=2EA97D" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/haseebshaikh03"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:shaikh.haseeb.work@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
-</div>
-
-```bash
-$ whoami
-haseeb   # Islamabad, Pakistan (UTC+5), remote with US and EU teams
-
-$ cat now.txt
-Building and reviewing agentic benchmark tasks for frontier LLM labs at Turing.
-
-$ cat before.txt
-Ran Cloud Mesh Solutions, a software company of around 30 people, as CEO and Head of Engineering.
-Six years of shipping backend systems in Python and TypeScript.
-```
+<img src="https://skillicons.dev/icons?i=python,ts,nodejs,postgres,mongodb,docker,aws,linux" alt="Python, TypeScript, Node.js, PostgreSQL, MongoDB, Docker, AWS, Linux" height="36" />
 
 ### What I work on
 
-- Dockerized agentic benchmark tasks (Harbor, BrowseComp style web research, SkillsBench, multi-file SWE tasks) with automated verifiers. Over 100 authored and more than 2,000 tasks and trajectories reviewed.
+- Agentic benchmark tasks for frontier LLMs. Over 100 Dockerized tasks authored across Harbor, BrowseComp style web research, SkillsBench and multi-file SWE work, and more than 2,000 tasks and trajectories reviewed.
 - Tool-calling agent workflows on the OpenAI and Anthropic APIs, with structured outputs and sandboxed environments.
-- Backend and platform work that holds up in production, from APIs and microservices to CI/CD and cloud deployment.
-- Offensive security, mostly web pentesting, reverse engineering and building CTF challenges and infrastructure.
+- Backend and platform engineering, from APIs and microservices to CI/CD and cloud deployment.
+- Offensive security, mostly web pentesting, reverse engineering and CTF infrastructure.
 
-### Tools I reach for
+### Projects
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,ts,nodejs,express,flask,django,postgres,mongodb,redis,docker,aws,linux,git,githubactions,bash&perline=15" alt="Python, TypeScript, Node.js, Express, Flask, Django, PostgreSQL, MongoDB, Redis, Docker, AWS, Linux, Git, GitHub Actions, Bash" />
-</p>
+| Project | What it is | Built at | Link |
+|---|---|---|---|
+| AVDA.ai | Multi-tenant AI voice agent SaaS for inbound and outbound calls, solo backend build | Independent, US client | |
+| ExploitOps | Multi-cloud attack simulator across AWS, Azure and GCP | Final year project | |
+| DrayMatch | US container logistics platform, backend, scrapers and analytics | FuzionDev LLC | [draymatch.io](https://draymatch.io) |
+| Condo Whisper, FinanceIQ, ABCard, Soul Story, TimeCloud | Backends for US client products | FuzionDev LLC | |
+| Kaufes | Swiss second hand marketplace and auctions, web and mobile | Cloud Mesh Solutions | [kaufes.ch](https://kaufes.ch) |
+| Park4Fly | Airport parking management with a driver app | Cloud Mesh Solutions | [Play Store](https://play.google.com/store/apps/details?id=net.park4fly.easyparksoftware) |
+| Büro 365 | Task, appointment and project management for small businesses | Cloud Mesh Solutions | [Play Store](https://play.google.com/store/apps/details?id=com.buero365.buero365) |
+| Offerten Helden | Quote and lead management for Swiss service businesses | Cloud Mesh Solutions | [Play Store](https://play.google.com/store/apps/details?id=ch.offerten365.offerten365) |
+| Concord Pharma | Sales team app for Concord Healthcare Group, backend and mobile | Ripple Intra Technologies | [Play Store](https://play.google.com/store/apps/details?id=com.concordmpo) |
+| Toticell | Regenerative healthcare center app | Ripple Intra Technologies | [Play Store](https://play.google.com/store/apps/details?id=com.toticell) |
+| EW Villa Medica | Cell therapy and medical tourism app | Ripple Intra Technologies | [Play Store](https://play.google.com/store/apps/details?id=com.ewvm) |
+| DMFR | Backend and DevOps | Ripple Intra Technologies | |
+| Brand Emirate | TypeScript backend with MongoDB and Redis on a shared microservices base | Ripple Intra Technologies | |
 
-### Selected work
+Most of this lives in private client and company repositories.
 
-| Project | What it is | Link |
-|---|---|---|
-| AVDA.ai | Multi-tenant AI voice agent SaaS, solo backend build for a US client | private |
-| ExploitOps | Multi-cloud attack simulator across AWS, Azure and GCP, my final year project | private |
-| DrayMatch | US container logistics platform, backend and scrapers through FuzionDev LLC | [draymatch.io](https://draymatch.io) |
-| Kaufes | Swiss second hand marketplace and auctions, led at Cloud Mesh | [kaufes.ch](https://kaufes.ch) |
-| Buero 365 | Task, appointment and project management for small businesses | [Play Store](https://play.google.com/store/apps/details?id=com.buero365.buero365) |
-| Concord Pharma | Sales team app for Concord Healthcare Group, backend and mobile | [Play Store](https://play.google.com/store/apps/details?id=com.concordmpo) |
+### Security and community
 
-### CTF hall of fame
+I play CTFs with Team PsychoTherapist, ranked 3rd in Pakistan on ctftime.org. We reached the Black Hat MEA 2024 Finals in Riyadh (40th of 250 teams, after qualifying from 9,000), placed 2nd nationally in Red Teaming at the Ignite National Cyber Hackathon and won DevConCTF'25 at NUST.
 
-| Event | Result |
-|---|---|
-| Black Hat MEA 2024 Finals, Riyadh | 40th of 250 finalist teams, after qualifying from 9,000 |
-| Ignite National Cyber Hackathon | 2nd nationally in Red Teaming |
-| DevConCTF'25, NUST | 1st nationally |
-| Team PsychoTherapist on ctftime.org | Ranked 3rd in Pakistan |
-
-### Community
-
-I co-founded the [Cyber Hacktivators Club](https://www.instagram.com/cyber_hacktivators/) at COMSATS and later led the [CUI Tech Society](https://www.instagram.com/cts.cui/). Along the way I organized [CUI Tech Fest 2025](https://ww2.comsats.edu.pk/cs/CUI-Tech-Fest-2025.aspx) with 1,200 participants and CodeCon-CUI'24 with 350 participants from 14+ universities. Older club work lives under the [Cyber-Hacktivators-Club](https://github.com/Cyber-Hacktivators-Club) organization.
-
-<div align="center">
-
-<sub>Most of my work lives in private client and company repos, so the public repos here are only part of the picture.</sub>
-
-</div>
+I co-founded the [Cyber Hacktivators Club](https://www.instagram.com/cyber_hacktivators/) at COMSATS and later led the [CUI Tech Society](https://www.instagram.com/cts.cui/), where I organized [CUI Tech Fest 2025](https://ww2.comsats.edu.pk/cs/CUI-Tech-Fest-2025.aspx) with 1,200 participants and CodeCon-CUI'24 with 350 participants from 14+ universities. Earlier club work is under the [Cyber-Hacktivators-Club](https://github.com/Cyber-Hacktivators-Club) organization.
