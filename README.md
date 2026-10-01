@@ -1,6 +1,6 @@
 ## Abdul Haseeb Shaikh
 
-Senior AI Engineer at Turing, working on LLM evaluation and benchmarking for frontier labs. Before that I ran Cloud Mesh Solutions, a software company of around 30 people, as CEO and Head of Engineering. Six years of shipping backend systems in Python and TypeScript, based in Islamabad and working remotely with US and EU teams.
+Senior AI Engineer at Turing, leading quality and tooling for LLM evaluation and benchmarking projects with frontier labs. Before that I ran Cloud Mesh Solutions, a software company of around 30 people, as CEO and Head of Engineering. Six years of shipping backend systems in Python and TypeScript, based in Islamabad and working remotely with US and EU teams.
 
 [Portfolio](https://haseebshaikh03.github.io) · [LinkedIn](https://www.linkedin.com/in/haseebshaikh03) · [Email](mailto:shaikh.haseeb.work@gmail.com)
 
@@ -8,7 +8,7 @@ Senior AI Engineer at Turing, working on LLM evaluation and benchmarking for fro
 
 ### What I work on
 
-- Agentic benchmark tasks for frontier LLMs. Over 100 Dockerized tasks authored across Harbor, BrowseComp style web research, SkillsBench and multi-file SWE work, and more than 2,000 tasks and trajectories reviewed.
+- Leading quality and tooling across several LLM evaluation projects at Turing, from BrowseComp style web research and SkillsBench to multi-turn SWE work. I write the first tasks on each project, set the QC bar and review every task before it ships, more than 2,000 so far.
 - Tool-calling agent workflows on the OpenAI and Anthropic APIs, with structured outputs and sandboxed environments.
 - Backend and platform engineering, from APIs and microservices to CI/CD and cloud deployment.
 - Offensive security, mostly web pentesting, reverse engineering and CTF infrastructure.
